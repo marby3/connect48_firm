@@ -1,7 +1,7 @@
 {
     "name": "connect48",
-    "vendorId": "0xF295",
-    "productId": "0x0001",
+    "vendorId": "0xC048",
+    "productId": "0x0412",
     "lighting": "qmk_rgblight",
     "matrix": { "rows": 8, "cols": 12 },
     "layouts": {
